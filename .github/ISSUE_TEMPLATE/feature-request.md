@@ -1,5 +1,5 @@
 ---
-name: New Issue
+name: Feature request
 about: New Issue / Story
 title: ''
 labels: ''
@@ -22,6 +22,7 @@ A clear and concise description of the goal of the issue/story
 
 **Technical solution (mandatory)**
 <!--- What is the technical solution detail -->
+A Detail technical solution for the issue/story
 
 ### Acceptance Criteria (mandatory)
 The story's expected outcome including input/output
