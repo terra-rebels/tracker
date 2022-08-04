@@ -19,6 +19,8 @@ Business Justification
 _Enter here.._
 
 
-Approval: Only 1 Approval required
+Approval:
 
-@tag approver here
+_@tag approvers here. Atleast 1 Approval required_ 
+
+_approvers should add the following comments "I approve"_
