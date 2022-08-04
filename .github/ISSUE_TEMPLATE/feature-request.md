@@ -41,7 +41,7 @@ The story's expected outcome including input/output
 ### Definition of Ready (recommended)
 This story can go into a sprint when...
 - [ ] Required Task details is available
-- [ ] Story has been estimated by the team and small enough to be finished in just one sprint
+- [ ] Story has been estimated by the team and small enough to be finished in a milestone
 - [ ] Acceptance criteria must exist and be understood by team
 
 ### Definition of Done (mandatory)
