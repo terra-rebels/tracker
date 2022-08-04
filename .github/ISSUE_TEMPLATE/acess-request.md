@@ -2,7 +2,7 @@
 name: Terra-Rebels Github Access Request Form
 about: Terra-Rebels Github Access Request Form
 title: GHE Access Request for @username
-labels: Access Request
+labels: 'Access Request'
 assignees: ''
 
 ---
