@@ -26,6 +26,8 @@ If applicable, add screenshots to help explain your problem.
 **System Information(please complete the following information)**
  - OS: [e.g. ubuntu]
  - Version [e.g. v22]
+ - Env: [e.g LocalTerra, TestNet, Mainnet]
+ - Component: [e.g Core, Quants, Station, UI, docs etc..]
 
 **Additional context**
 Add any other context about the problem here.
