@@ -1,7 +1,7 @@
 # tracker
 _Do Not checkin src code to this repo_
 
-The Tracker repo will be used to Track Issues and Work items for terra-rebels. The Architects team as decided to use ZenHub has the choosen Project Management tool. Zenhub will helps your teams get more work done faster with time-saving agile automations, fewer meetings, and more visibility in GitHub.
+The Tracker repo will be used to Organize, Plan, Track Issues and Work items for terra-rebels software engineering teams. The Architects squad has decided to use ZenHub has the choosen Project Management tool. Zenhub will help your teams get more work done faster with time-saving agile automations, fewer meetings, and more visibility in GitHub.
 
 ### Install and Setup Zenhub.
 
