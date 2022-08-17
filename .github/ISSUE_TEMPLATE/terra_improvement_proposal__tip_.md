@@ -1,6 +1,6 @@
 ---
 name: Terra Improvement Proposal (TIP)
-about: Use this template to outline proposed changes to the Terra core.
+about: Use this template to outline proposed Code changes to the Terra core.
 title: 'TIP # __ Your Title Here'
 labels: ''
 assignees: ''
