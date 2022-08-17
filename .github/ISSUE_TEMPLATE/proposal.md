@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about: New Proposal
+about: Use this template to outline proposed changes to Governance, Operations and legal aspects of Terra rebels.
 title: 'Proposal: '
 labels: 'proposal'
 assignees: ''
