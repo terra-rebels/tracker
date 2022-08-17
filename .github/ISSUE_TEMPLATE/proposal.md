@@ -26,12 +26,6 @@ A clear and concise description of the goal of this proposal
 ### Specification
 <!--- What are the system specs required for this proposal (optional) -->
 
-### Backwards Compatibility
-<!--- is there a backward complatibity requirement of this proposal (optional) -->
-
-### Test Cases & Implementations
-<!--- required test cases and implementation details for this proposal (optional) -->
-
 ### Security Considerations
 <!--- What are the seecurity risks and considerations this proposal (optional) -->
 
