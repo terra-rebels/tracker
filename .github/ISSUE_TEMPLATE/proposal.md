@@ -27,7 +27,7 @@ A clear and concise description of the goal of this proposal
 <!--- What are the system specs required for this proposal (optional) -->
 
 ### Security Considerations
-<!--- What are the seecurity risks and considerations this proposal (optional) -->
+<!--- What are the security risks and considerations of this proposal (optional) -->
 
 ### Copyright
 <!--- any copyrights required for this proposal (optional) -->
